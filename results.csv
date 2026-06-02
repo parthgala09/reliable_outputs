@@ -1,0 +1,21 @@
+input_id,first_try_valid,final_valid,num_retries,errors_seen,total_cost
+1,True,True,0,[],$0.0010
+2,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Mar\u00eda-Luisa P\u00e9rez\"",\""email\"":\""mari""]",$0.0020
+3,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""\u5c71\u7530\u592a\u90ce\"",\""email\"":\""taro.yamada@examp""]",$0.0020
+4,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""liam o'connor\"",\""email\"":\""liam.oco""]",$0.0020
+5,True,True,0,[],$0.0010
+6,True,True,0,[],$0.0010
+7,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""A. Johnson\"",\""email\"":\""a_johnson@e""]",$0.0020
+8,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""\u5f20\u4f1f\"",\""email\"":\""zhang.wei@domain.cn""]",$0.0020
+9,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Ola Nordmann\"",\""email\"":\""ola.nordm""]",$0.0020
+10,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Kelly B-24\"",\""email\"":\""kelly_b24@g""]",$0.0020
+11,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Tom\"",\""email\"":\""tom@@example.com\"",""]",$0.0020
+12,True,True,0,[],$0.0010
+13,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Magnus Berg\"",\""email\"":\""magnus.ber""]",$0.0020
+14,True,True,0,[],$0.0010
+15,False,True,2,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Daniela Ramos\"",\""email\"":\""daniela."", ""Failed to parse ContactCard after 2 attempts. Last output: {\""name\"":\""Daniela Ramos\"",\""email\"":\""daniela.""]",$0.0030
+16,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Nandini Gupta\"",\""email\"":\""nandini.""]",$0.0020
+17,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Peter O'Brien\"",\""email\"":\""peter.ob""]",$0.0020
+18,True,True,0,[],$0.0010
+19,True,True,0,[],$0.0010
+20,False,True,1,"[""Failed to parse ContactCard after 1 attempts. Last output: {\""name\"":\""Yvette Lee\"",\""email\"":\""yvette.lee@""]",$0.0020
